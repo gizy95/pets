@@ -1,5 +1,5 @@
 const pets = {
-    dogs: [
+    Dogs: [
         {
             name: 'Spot',
             age: 2,
@@ -16,7 +16,7 @@ const pets = {
             url: 'https://placedog.net/540/205',
         },
     ],
-    cats: [
+    Cats: [
         {
             name: 'Snowflake',
             age: 1,
@@ -26,7 +26,7 @@ const pets = {
             url: 'http://placekitten.com/500/500',
         },
     ],
-    rabbits: [
+    Rabbits: [
         {
             name: 'Easter',
             age: 4,
